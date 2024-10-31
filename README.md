@@ -1,5 +1,5 @@
 # HospitalEncounter
-Personal project with hospital encounter data from ELVTR Course
+Personal project with hospital encounter data from ELVTR Course 2024
 
 col name | description <br>
 encounter_id |	Unique identifier for encounter record  <br>
