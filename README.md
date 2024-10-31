@@ -1,7 +1,7 @@
 # HospitalEncounter
 Personal project with hospital encounter data from ELVTR Course
 
-col name | Description
+col name | Description \n
 encounter_id |	Unique identifier for encounter record
 admission_date |	Date patient was admitted
 origin |	Origin of patient
